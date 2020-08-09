@@ -10,6 +10,8 @@ HJDSBfliKfADvvhj
 ##Deployment
 sdffgasrgag
 ##How to contribute?
+please fork this repostry
+thensiuee pull request for review
 
 
 ###Copyright
