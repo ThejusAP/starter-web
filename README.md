@@ -1,9 +1,12 @@
 # Starter Web Project
 zsdfKBFLADfbjkGadfsgasevasfadvewgfsdrfgwsdfSFZsdffdzcfsedfsxvaFzsfvF
+adsf
 
 ##Introduction
 zDffSDFcNZcjSDFHvdfsDFSDfDfDfg
+sdfs
 
+f
 ## Purpose
 HJDSBfliKfADvvhj
 
@@ -16,4 +19,4 @@ thensiuee pull request for review
 
 ###Copyright
 
-2014 Git.Training
+2014 Git.Training All rights reservecd
